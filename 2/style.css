@@ -1,19 +1,19 @@
 .hdr { height: 10wh;}
-.container display: flex;
+.container {display: flex;
             flex-direction: row;
-            width: 100vw
-            height:20vh;
-   
+            width: 100vw;
+            height: 20vh;
+}
             
 .A{
   background-color: rosybrown;
-  flex: 0 1 15vh;
+  flex: 0 1 150px;
 }
 .B {
     background-color: lightblue;
-    flex: 0 1 40vh;
+    flex: 0 1 400px;
 }
 .C {
     background-color: lightgreen;
-    flex: 0 1 15vh;
+    flex: 0 1 150px;
 }
