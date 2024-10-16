@@ -8,12 +8,20 @@
 .A{
   background-color: rosybrown;
   flex: 0 1 150px;
+  margin-right: 5px
+  padding: 5px
 }
 .B {
     background-color: lightblue;
     flex: 0 1 400px;
+    margin-right: 5px
+    padding: 5px
+
 }
 .C {
     background-color: lightgreen;
     flex: 0 1 150px;
+    margin-right: 5px
+    padding: 5px
+
 }
