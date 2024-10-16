@@ -1,5 +1,5 @@
 .hdr { height: 10wh;}
-.container {display: flex;
+.container display: flex;
             flex-direction: row;
             width: 100vw
             height:20vh;
