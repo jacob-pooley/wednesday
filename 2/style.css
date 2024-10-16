@@ -1,9 +1,21 @@
-.hdr { height: 10wh;}
-.container {display: flex;
-            flex-direction: row;
-            width: 100vw;
-            height: 20vh;
+.hdr { 
+    height: 10vh;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 10vh;
+    background-color: lightgray;
+    margin-bottom:1em
 }
+
+    .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 100vw;
+        height: 20vh;
+        margin-bottom:1em
+    }
             
 .A{
   background-color: rosybrown;
